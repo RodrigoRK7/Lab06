@@ -9,7 +9,7 @@ $(".agregar").on("click", function (event) {
             <button id="deleteButton"> delete </button>
         </li> </div>`);
   } else {
-    alert("El campo esta vacio");
+    alert("Favor de ingresar texto");
   }
 });
 
